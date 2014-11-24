@@ -1,0 +1,8 @@
+D:\work\C#\RhinoIn\RhinoInRR\RhinoInRR\obj\Debug32\ResolveAssemblyReference.cache
+D:\work\C#\RhinoIn\RhinoInRR\RhinoInRR\obj\Debug32\RhinoInRR.Properties.Resources.resources
+D:\work\C#\RhinoIn\RhinoInRR\RhinoInRR\obj\Debug32\GenerateResource-ResGen.read.1.tlog
+D:\work\C#\RhinoIn\RhinoInRR\RhinoInRR\obj\Debug32\GenerateResource-ResGen.write.1.tlog
+D:\work\C#\RhinoIn\RhinoInRR\RhinoInRR\bin\RhinoInRR.dll
+D:\work\C#\RhinoIn\RhinoInRR\RhinoInRR\bin\RhinoInRR.pdb
+D:\work\C#\RhinoIn\RhinoInRR\RhinoInRR\obj\Debug32\RhinoInRR.dll
+D:\work\C#\RhinoIn\RhinoInRR\RhinoInRR\obj\Debug32\RhinoInRR.pdb
