@@ -16,7 +16,7 @@ namespace RhinoInRR
     public class RRObject
     {
         /// <summary>
-        /// Author antklim
+        /// copyright algotecture
         /// </summary>
         private List<RRNode> nds;    // list of nodes
         private List<RREdge> edg;    // list of edges
